@@ -96,16 +96,30 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[system]</span> 🎂
+                Happy Birthday <span className="highlight">[Anushka]</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[system]'s</span>{" "}
+                Counting down to <span className="highlight">[Anushka]'s</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Happy birthday system mayy gbu 💗</p>
+          <p> Happy Birthday, my Anushka ❤️🎂
+
+Today is extra special for me because it’s the day you came into this world.
+Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
+
+You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
+No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
+
+I pray that all your dreams come true and that happiness always finds you.
+And I hope I get to be the reason behind your smile every single day. 🫶
+
+I love you more than words can ever express.
+Once again, Happy Birthday, my love 🎉🎂
+
+— Yours, Lakshay 💕 </p>
         </section>
 
         <Countdown
