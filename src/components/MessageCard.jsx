@@ -13,19 +13,27 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Anushka],
 
-Your personalized birthday message goes here.
+Happy Birthday, ❤️🎂
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Today is extra special for me because it’s the day you came into this world.
+Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
+No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
+
+I pray that all your dreams come true and that happiness always finds you.
+And I hope I get to be the reason behind your smile every single day. 🫶
+
+I love you more than words can ever express.
+Once again, Happy Birthday, my love 🎉🎂
+
+ 💕
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Lakshay]`;
 
   // Handle page transitions
   useEffect(() => {
