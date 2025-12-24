@@ -105,21 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p> Happy Birthday, my Anushka ❤️🎂
-
-Today is extra special for me because it’s the day you came into this world.
-Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
-
-You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
-No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
-
-I pray that all your dreams come true and that happiness always finds you.
-And I hope I get to be the reason behind your smile every single day. 🫶
-
-I love you more than words can ever express.
-Once again, Happy Birthday, my love 🎉🎂
-
-— Yours, Lakshay 💕 </p>
+          <p> Happy Birthday, my Anushka ❤️🎂 </p>
         </section>
 
         <Countdown
@@ -184,8 +170,21 @@ Once again, Happy Birthday, my love 🎉🎂
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 Forever Yours — [lakshay] 💖</h2>
+          <p className="final-subtitle">Happy Birthday, my Anushka ❤️🎂
+
+Today is extra special for me because it’s the day you came into this world.
+Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
+
+You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
+No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
+
+I pray that all your dreams come true and that happiness always finds you.
+And I hope I get to be the reason behind your smile every single day. 🫶
+
+I love you more than words can ever express.
+Once again, Happy Birthday, my love 🎉🎂
+</p>
         </section>
       </div>
 
