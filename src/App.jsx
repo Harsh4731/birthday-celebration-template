@@ -174,7 +174,6 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-<<<<<<< HEAD
           <h2 className="final-message">💖 Forever Yours — Lucky 💖</h2>
           <p className="final-subtitle">Happy Birthday, my love Anushkaaa🛐
 
@@ -187,23 +186,6 @@ I pray this year brings you endless happiness, success, good health, and everyth
 Thank you for loving me and choosing me every day.
 Happy Birthday, my love
 I love you always and forever 💕</p>
-=======
-          <h2 className="final-message">💖 Forever Yours — [lakshay] 💖</h2>
-          <p className="final-subtitle">Happy Birthday, my Anushka ❤️🎂
-
-Today is extra special for me because it’s the day you came into this world.
-Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
-
-You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
-No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
-
-I pray that all your dreams come true and that happiness always finds you.
-And I hope I get to be the reason behind your smile every single day. 🫶
-
-I love you more than words can ever express.
-Once again, Happy Birthday, my love 🎉🎂
-</p>
->>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
         </section>
       </div>
 
