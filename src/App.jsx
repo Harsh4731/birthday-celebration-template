@@ -105,11 +105,7 @@ function App() {
               </>
             )}
           </h1>
-<<<<<<< HEAD
           <p> Happy Birthday My Anushka 💗</p>
-=======
-          <p> Happy Birthday, my Anushka ❤️🎂 </p>
->>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
         </section>
 
         <Countdown

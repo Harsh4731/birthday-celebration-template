@@ -13,13 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-<<<<<<< HEAD
   const message = `[Dear Anushka],
-=======
-  const message = `[Anushka],
-
-Happy Birthday, ❤️🎂
->>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
 
 Today is extra special for me because it’s the day you came into this world.
 Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
@@ -33,17 +27,9 @@ And I hope I get to be the reason behind your smile every single day. 🫶
 I love you more than words can ever express.
 Once again, Happy Birthday, my love 🎉🎂
 
-<<<<<<< HEAD
 — Yours, Lucky 💕
 
 — [Lucky]`;
-=======
- 💕
-
-Happy Birthday! 🎉
-
-— [Lakshay]`;
->>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
 
   // Handle page transitions
   useEffect(() => {
