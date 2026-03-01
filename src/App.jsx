@@ -105,7 +105,11 @@ function App() {
               </>
             )}
           </h1>
+<<<<<<< HEAD
           <p> Happy Birthday My Anushka 💗</p>
+=======
+          <p> Happy Birthday, my Anushka ❤️🎂 </p>
+>>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
         </section>
 
         <Countdown
@@ -170,21 +174,36 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
+<<<<<<< HEAD
           <h2 className="final-message">💖 Forever Yours — Lucky 💖</h2>
-          <p className="final-subtitle">Happy Birthday, my love Anushkaaa 🛐
+          <p className="final-subtitle">Happy Birthday, my love Anushkaaa🛐
 
-Today is not just another day — it’s the day the most beautiful soul came into this world. I honestly don’t know how I got so lucky to have you in my life, but I thank God every single day for you. You are not just my girlfriend, you are my safe place, my happiness, my biggest support system, and the reason behind so many of my smiles.
+Today is special because it’s the day my favorite person was born. You are the most beautiful part of my life — my happiness, my peace, and my biggest support. Every moment with you feels like a blessing, and I’m truly grateful to have you by my side.
 
-You have this magical way of making everything better. Even on my worst days, just talking to you brings me peace. Your laugh is my favorite sound, your smile is my favorite sight, and your love is my greatest blessing. You’ve taught me what real care feels like, what real understanding looks like, and what it means to truly love someone.
+Your smile makes my bad days better, your love makes me stronger, and your presence makes my life complete. I admire your heart, your strength, and the way you care so deeply.
 
-I admire your strength, your kindness, your heart, and the way you care about the people you love. You deserve the world and so much more. I promise to always stand by you, support your dreams, protect your heart, and celebrate every success that comes your way.
+I pray this year brings you endless happiness, success, good health, and everything you’ve ever wished for. You deserve the absolute best in this world.
 
-On your special day, I pray that this year brings you endless happiness, success, good health, and all the dreams you’ve been wishing for. May your life be filled with the same warmth and love that you bring into mine every day.
+Thank you for loving me and choosing me every day.
+Happy Birthday, my love
+I love you always and forever 💕</p>
+=======
+          <h2 className="final-message">💖 Forever Yours — [lakshay] 💖</h2>
+          <p className="final-subtitle">Happy Birthday, my Anushka ❤️🎂
 
-Thank you for being you. Thank you for loving me. Thank you for choosing me.
+Today is extra special for me because it’s the day you came into this world.
+Your smile is my favorite thing, and your presence makes everything in my life feel better. 💫
 
-Happy Birthday once again, my queen 💕❤️
-I love you more than words can ever express. 💕💕</p>
+You’re not just my girlfriend, you’re my best friend, my peace, and my safe place.
+No matter what life brings, I promise to always stand by you and hold your hand through everything. 🤍
+
+I pray that all your dreams come true and that happiness always finds you.
+And I hope I get to be the reason behind your smile every single day. 🫶
+
+I love you more than words can ever express.
+Once again, Happy Birthday, my love 🎉🎂
+</p>
+>>>>>>> ca0a4cfabc37849a04a5b3ab1c5c4d6cd23b20fe
         </section>
       </div>
 
